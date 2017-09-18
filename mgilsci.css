@@ -12,7 +12,7 @@ h1 {
 
 p {
 	font-family: 'Goudy Old Style', 'Palatino Linotype', 'Garamond', serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
@@ -22,7 +22,7 @@ p {
 
 p.italic {
 	font-family: 'Goudy Old Style', 'Palatino Linotype', 'Garamond', serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: italic;
 	font-variant: normal;
 	font-weight: 400;
@@ -32,7 +32,7 @@ p.italic {
 
 #menu {
 	font-family: 'Goudy Old Style', 'Palatino Linotype', 'Garamond', serif;
-	font-size: 14px;
+	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
@@ -74,4 +74,4 @@ a:visited {
 }
 
 
-div.bookpage { width:450px; margin:auto; }
+div.bookpage { width:600px; margin:auto; }
